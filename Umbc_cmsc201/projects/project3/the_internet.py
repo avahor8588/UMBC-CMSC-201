@@ -1,11 +1,7 @@
 """
-File:    the_internet.py
-Author:  aamil vahora
-Date:    December/2/2021
-Section: 42
-E-mail:  aamilv1@umbc.edu
 Description:
   the code creates the internet
+  •	here we make a model internet using recursion and pathfinding in order to find a path form one server to another.
 """
 # the functions below are the helper functions  ###################################
 def reverse_list(my_list):
