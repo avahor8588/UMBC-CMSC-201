@@ -1,13 +1,8 @@
 """
-File:    jumps_and_hlts.py
-Author:  Aamil Vahora
-Date:    October 28/2021
-Section: 42
-E-mail:  aamilv1@umbc.edu
 Description:
 the code generates a board game which then the user can play using an input and the game loops until
 the game is over and the winner is decided. Almsot like snaked and latters.
-	"""
+"""
 
 """
 Hills Of Pain
