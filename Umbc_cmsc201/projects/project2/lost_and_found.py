@@ -1,11 +1,8 @@
 """
-File:    lost_and_found_starter.py
-Author:  Aamil Vahora
-Date:    November 12th 2021
-Section: 42
-E-mail:  aamilv1@umbc.edu
 Description:
-  the user can move througha grid an play games with doors and keys.
+  This project generates a certain 
+  map with any given seed with doors and keys which you can more 
+  through using (w, a, s, d) and (e) keys to clear to doors and reveal secret doors
 """
 import json
 
